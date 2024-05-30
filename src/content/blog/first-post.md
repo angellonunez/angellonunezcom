@@ -1,7 +1,7 @@
 ---
-title: 'First post'
+title: 'First post Junio 2023'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jun 08 2023'
 heroImage: 'https://cdn.jsdelivr.net/gh/withastro/astro@cdf89a16c86172845fb5df5cb79b15f67fa7ca2f/examples/blog/public/blog-placeholder-3.jpg'
 ---
 
