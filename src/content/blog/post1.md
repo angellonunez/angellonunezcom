@@ -2,7 +2,7 @@
 title: '¿Por qué decidí quedarme en Estados Unidos?'
 description: 'Vivo en Estados Unidos desde hace casi 4 años. En todo este tiempo, he tenido muchas experiencias. Algunas buenas, otras bastante malas. ¿Qué es lo que me llevó a tomar la decisión de quedarme?'
 pubDate: 'May 30 2024'
-heroImage: '/post1.jpeg'
+heroImage: 'https://previews.dropbox.com/p/thumb/ACRNYEHaXEViigie9YSemRRGihc6U1_pn-dhQFC_x_oDDv3RfQlIVOWvdZN4opjGWaAoqIwxJyy0gvZrbtQ7lcXrkEeepZ6Y40NjERb4cU_-WKB3dxy-6dhyQF0TDgIMwupQj5hO_RZquy7fCra12Ejv3l0s7wzBu27EIoGPGfjL41mJjuvZAEi7Ou35O7Vf7khZXheDxcJhNyGiANSWGCHKzmrh6qBcFdZYAG7BJgXlRGdVwZIwG3izA1ZH8njhnyF5-_mhytgOzQpus6Kli0Qr3C_29LT6HqYuOHa0fp9ZepFR8Dhe5ymoG_N4BgNKCP6ozIZIARjZUpcFm0NLBOFv/p.jpeg'
 ---
 
 Ya han pasado casi 4 años desde que dejé atrás Perú y comencé a vivir en Estados Unidos. Ha sido toda una experiencia. Cuando me mudé tenía casi 23 años, ahora estoy por cumplir 27. Han pasado muchas cosas buenas y algunas malas. Me gustaría compartir un poco sobre mi experiencia, sobre todo para todos aquellos que quieren conocer más sobre este país.
