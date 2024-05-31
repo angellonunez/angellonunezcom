@@ -2,7 +2,7 @@
 title: '¿Por qué decidí quedarme en Estados Unidos?'
 description: 'Vivo en Estados Unidos desde hace casi 4 años. En todo este tiempo, he tenido muchas experiencias. Algunas buenas, otras bastante malas. ¿Qué es lo que me llevó a tomar la decisión de quedarme?'
 pubDate: 'May 30 2024'
-heroImage: 'https://previews.dropbox.com/p/thumb/ACRNYEHaXEViigie9YSemRRGihc6U1_pn-dhQFC_x_oDDv3RfQlIVOWvdZN4opjGWaAoqIwxJyy0gvZrbtQ7lcXrkEeepZ6Y40NjERb4cU_-WKB3dxy-6dhyQF0TDgIMwupQj5hO_RZquy7fCra12Ejv3l0s7wzBu27EIoGPGfjL41mJjuvZAEi7Ou35O7Vf7khZXheDxcJhNyGiANSWGCHKzmrh6qBcFdZYAG7BJgXlRGdVwZIwG3izA1ZH8njhnyF5-_mhytgOzQpus6Kli0Qr3C_29LT6HqYuOHa0fp9ZepFR8Dhe5ymoG_N4BgNKCP6ozIZIARjZUpcFm0NLBOFv/p.jpeg'
+heroImage: 'https://i.ibb.co/QHTKGV1/example1.jpg'
 ---
 
 Ya han pasado casi 4 años desde que dejé atrás Perú y comencé a vivir en Estados Unidos. Ha sido toda una experiencia. Cuando me mudé tenía casi 23 años, ahora estoy por cumplir 27. Han pasado muchas cosas buenas y algunas malas. Me gustaría compartir un poco sobre mi experiencia, sobre todo para todos aquellos que quieren conocer más sobre este país.
@@ -19,7 +19,7 @@ Yo estaba muy acostumbrado a salir con mis amigos a pasear y conversar, a ver pe
 
 La propia pandemia fue la causante de que casi pierda la oportunidad de venir. Como todos recuerdan, los vuelos internacionales estuvieron cancelados durante muchos meses. Tanto mi visa como la de mi hermano vencían el 22 de julio de 2020, pero un vuelo humanitario pensado para todos los estadounidenses viviendo en Perú nos salvó. Legalmente hablando, no éramos estadounidenses (y aún no lo somos, para eso falta un año más), pero se nos permitió subir a dicho avión. Después de todo, era un vuelo apto para ciudadanos y residentes estadounidenses. Tengo entendido que costó mucho dinero.
 
-![Estatua de la Libertad y bandera de Estados Unidos de fondo](https://previews.dropbox.com/p/thumb/ACQa8kdkh_taeRQmhWQxMCBwYb5ST1i-lLvLSCXIhP0PdlWLkVUJYBPhTWaWkJJTn-roU0SugsG1jLunbjiH5wjM1K8tC1zHClv_6-JKq0m82YtVtAGJMHA-D_00sx6Vt0ahE7HxjBUWkGS-zfErfKA6KSHNIcVh1ZgHQGpUL7CJacA4N-Vm31XtbZZ49F8xiTNOqhMZxg3If2iZxJPiptXhT998P2UAEWcTFOggINZAbi-bbU_vpyZqodHKp0p7xllXRMM9325CQNey2Cd9EPUQBHuvSQC_C7pzraQNzcnYmkBREU4RwhLRgLUqC0EMXkyjV_xWKdPct0XIREYAYEeu/p.jpeg)
+![Estatua de la Libertad y bandera de Estados Unidos de fondo](https://i.ibb.co/PwF9vzp/example3.jpg)
 
 Recuerdo lo asustados que estábamos. Oficialmente, debíamos estar en Estados Unidos antes de las 12 de la mañana del día 23 de julio, porque nuestras visas vencían en ese momento. Llegamos a Florida alrededor de la 10 de la noche, las autoridades nos separaron y nos hicieron esperar en una oficina con otra persona más, y luego de 30 minutos confirmaron nuestra situación legal y nos dejaron pasar. **Nuestro destino final era New Jersey.**
 
@@ -47,7 +47,7 @@ La elección de una carrera era clave porque resultaba un punto importante en nu
 
 Continuando con la historia del banco, luego de todo ese tiempo, me aventuré a buscar algo mejor. Mi interés profesional estaba en la tecnología, mi gran aliada y una de las razones principales por las que decidí quedarme a vivir en el país. Si quería dedicarme a aquello que me gustaba, debía esforzarme mucho en convencer a las empresas que estaba listo para tener un puesto en esa área. En parte fue por ello que una carrera en tecnología me convenció. A comienzos de abril de este año tuve una serie de entrevistas para trabajar para otra empresa de finanzas como analista de datos y, luego de un proceso de selección bastante interesante, me escogieron. Ahora trabajo en eso y, luego de estas semanas en el trabajo, puedo decir que me encanta.
 
-![Guy with glasses thinking about technology](https://previews.dropbox.com/p/thumb/ACQ9Ij2mHT0OcQEq7H4xMgBUQkp_KXxtP1Y86oB6uN5y3uLAEOYa8BALFa8hByV4hn7xEM-9AM1Szibrc0Qgx3QvhJbwhESi0GYrZ0Lt7fZteta5q37zQfmj6TIi968Ks4FvRHyn5hTCcuGkgpNDUiMO7WiRzJ698DH6osdDp3zjyJz98Rw2QrKW9dMb8K0gmkPCRpYoGlS7HoVVqIgvNgXqM3FZ5pGtFejCp27q2mXSfgdF2y4a3jqixTMEnU6O4voSa7FMoZV7W6glmsN8uGuJw4_gLGqqvuS82NmCB8yCMx62n47T0c9IeUFVMV3gwGxoEh5qeXqMuO4zEYVUeNkm/p.jpeg)
+![Guy with glasses thinking about technology](https://i.ibb.co/cTkQYWs/example2.jpg)
 
 ## Los sacrificios se cobran
 
