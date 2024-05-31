@@ -1,16 +1,8 @@
-# Astro Starter Kit: Basics
+# Blog personal - Angello Nunez
 
-```sh
-npm create astro@latest -- --template basics
-```
+> 🧑‍🚀 **Creado con Astro**
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Puedes ver la página web [aquí](https://angellonunez.com).
 
 ## 🚀 Project Structure
 
@@ -22,33 +14,39 @@ Inside of your Astro project, you'll see the following folders and files:
 │   └── favicon.svg
 ├── src/
 │   ├── components/
-│   │   └── Card.astro
+│   │   └── BaseHead.astro
+│   │   └── Disqus.astro
+│   │   └── FormattedDate.astro
+│   │   └── Header.astro
+│   │   └── HeaderLink.astro
 │   ├── layouts/
-│   │   └── Layout.astro
+│   │   └── BlogPost.astro
+│   │   └── AboutLayout.astro
 │   └── pages/
 │       └── index.astro
+│       └── about.astro
 └── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Astro busca archivos `.astro` o `.md` en la carpeta `src/pages/`. Cada página es mostrada como una ruta basada en el nombre del archivo.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+No hay nada especial en `src/components/`,pero allí es donde prefiero guardar los componentes de Astro/React/Vue/Svelte/Preact.
 
-Any static assets, like images, can be placed in the `public/` directory.
+Cualquier recurso estático, como imágnes, pueden ser puestas en la carpeta `public/`.
 
-## 🧞 Commands
+## 🧞 Comandos
 
-All commands are run from the root of the project, from a terminal:
+Todos los comandos se corren desde la raíz del proyecto, a través de una terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| Comando                   | Acción                                                            |
+| :------------------------ | :---------------------------------------------------------------- |
+| `npm install`             | Instala dependencias                                              |
+| `npm run dev`             | Empieza un servidor local de desarrollo en `localhost:4321`       |
+| `npm run build`           | Contruye tu sitio de producción en `./dist/`                      |
+| `npm run preview`         | Visualiza tu producción localmente, antes de lanzar públicamente  |
+| `npm run astro ...`       | Corre comandos CLI como `astro add`, `astro check`                |
+| `npm run astro -- --help` | Consigue ayuda corriendo el Astro CLI                             |
 
-## 👀 Want to learn more?
+## 👀 ¿Quieres aprender más de Astro?
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Siéntete libre de revisar [su documentación](https://docs.astro.build) o visitar su [servidor de Discord](https://astro.build/chat).
