@@ -4,6 +4,7 @@ description: 'Vivo en Estados Unidos desde hace casi 4 años. En todo este tiemp
 pubDate: 'May 30 2024'
 heroImage: 'https://i.ibb.co/QHTKGV1/example1.jpg'
 ---
+<meta property="og:image" content="https://i.ibb.co/QHTKGV1/example1.jpg"/>
 
 Ya han pasado casi 4 años desde que dejé atrás Perú y comencé a vivir en Estados Unidos. Ha sido toda una experiencia. Cuando me mudé tenía casi 23 años, ahora estoy por cumplir 27. Han pasado muchas cosas buenas y algunas malas. Me gustaría compartir un poco sobre mi experiencia, sobre todo para todos aquellos que quieren conocer más sobre este país.
 
