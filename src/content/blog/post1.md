@@ -3,6 +3,7 @@ title: '¿Por qué decidí quedarme en Estados Unidos?'
 description: 'Vivo en Estados Unidos desde hace casi 4 años. En todo este tiempo, he tenido muchas experiencias. Algunas buenas, otras bastante malas. ¿Qué es lo que me llevó a tomar la decisión de quedarme?'
 pubDate: 'May 30 2024'
 heroImage: 'https://i.ibb.co/QHTKGV1/example1.jpg'
+updatedDate: 'May 31 2024'
 ---
 
 Ya han pasado casi 4 años desde que dejé atrás Perú y comencé a vivir en Estados Unidos. Ha sido toda una experiencia. Cuando me mudé tenía casi 23 años, ahora estoy por cumplir 27. Han pasado muchas cosas buenas y algunas malas. Me gustaría compartir un poco sobre mi experiencia, sobre todo para todos aquellos que quieren conocer más sobre este país.
@@ -31,7 +32,7 @@ A partir de ese momento, mi hermano y yo nos dedicamos a ahorrar mucho para pode
 
 Yo incluso me aventuré a trabajar en Amazon a mediados de noviembre, pero duré menos de dos semanas en ese trabajo. La razón es que el trabajo era horrible, pero no ayudaba que el horario fuera mucho peor. Entraba a trabajar a las 3 AM, pero el último tren salía de la estación de Elizabeth a la 1:30 AM, así que me despertaba mucho más temprano de lo necesario. Además, la otra estación de tren quedaba a 30 minutos caminando del almacén donde trabajaba. Terminaba mi turno a las 2 PM y tenía que irme caminando con los pies destrozados. La experiencia fue horrible.
 
-Por suerte, en Marshalls me esperaron y seguí trabajando allí por más de un año. Conseguí un ascenso rápido, el trabajo era relativamente sencillo; pero no había mucho crecimiento para mí. Los criterios de evaluación sobre mi desempeño eran ridíficulos. Además, yo estaba apuntando a cimas más difíciles de alcanzar. **Fue entonces cuando me interesé en los bancos.**
+Por suerte, en Marshalls me esperaron y seguí trabajando allí por más de un año. Conseguí un ascenso rápido, el trabajo era relativamente sencillo; pero no había mucho crecimiento para mí. Los criterios de evaluación sobre mi desempeño eran ridículos. Además, yo estaba apuntando a cimas más difíciles de alcanzar. **Fue entonces cuando me interesé en los bancos.**
 
 Había leído que los bancos pagaban bien. En los últimos años, algunos tenían sueldos iniciales relativamente buenos. Para un emigrante como yo, cualquier sueldo estaba bien. Mientras más, mejor. Conseguí una entrevista en Bank of America y, al parecer, todo había ido bien. Me preocupaba un poco que la persona que me había entrevistado era la asistente de la gerente y no la gerente misma, pero ella había tenido una emergencia y yo di una muy buena imagen en la entrevista. Pese a ello, pasó cerca de un mes y no me llamaron. Pensé que debía aplicar a otros trabajos antes de aventurarme a los bancos, pero recibí una llamada inesperada de una gerente de otra sucursal.
 
