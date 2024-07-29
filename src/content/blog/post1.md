@@ -2,8 +2,8 @@
 title: '¿Por qué decidí quedarme en Estados Unidos?'
 description: 'Vivo en Estados Unidos desde hace casi 4 años. En todo este tiempo, he tenido muchas experiencias. Algunas buenas, otras bastante malas. ¿Qué es lo que me llevó a tomar la decisión de quedarme?'
 pubDate: 'May 30 2024'
-heroImage: 'https://i.ibb.co/QHTKGV1/example1.jpg'
-updatedDate: 'May 31 2024'
+heroImage: 'https://i.imgur.com/rKTa7jh.jpg'
+updatedDate: 'Jul 29 2024'
 ---
 
 Ya han pasado casi 4 años desde que dejé atrás Perú y comencé a vivir en Estados Unidos. Ha sido toda una experiencia. Cuando me mudé tenía casi 23 años, ahora estoy por cumplir 27. Han pasado muchas cosas buenas y algunas malas. Me gustaría compartir un poco sobre mi experiencia, sobre todo para todos aquellos que quieren conocer más sobre este país.
@@ -20,7 +20,7 @@ Yo estaba muy acostumbrado a salir con mis amigos a pasear y conversar, a ver pe
 
 La propia pandemia fue la causante de que casi pierda la oportunidad de venir. Como todos recuerdan, los vuelos internacionales estuvieron cancelados durante muchos meses. Tanto mi visa como la de mi hermano vencían el 22 de julio de 2020, pero un vuelo humanitario pensado para todos los estadounidenses viviendo en Perú nos salvó. Legalmente hablando, no éramos estadounidenses (y aún no lo somos, para eso falta un año más), pero se nos permitió subir a dicho avión. Después de todo, era un vuelo apto para ciudadanos y residentes estadounidenses. Tengo entendido que costó mucho dinero.
 
-![Estatua de la Libertad y bandera de Estados Unidos de fondo](https://i.ibb.co/PwF9vzp/example3.jpg)
+![Estatua de la Libertad y bandera de Estados Unidos de fondo](https://i.imgur.com/I4OVS0q.jpeg)
 
 Recuerdo lo asustados que estábamos. Oficialmente, debíamos estar en Estados Unidos antes de las 12 de la mañana del día 23 de julio, porque nuestras visas vencían en ese momento. Llegamos a Florida alrededor de la 10 de la noche, las autoridades nos separaron y nos hicieron esperar en una oficina con otra persona más, y luego de 30 minutos confirmaron nuestra situación legal y nos dejaron pasar. **Nuestro destino final era New Jersey.**
 
@@ -48,7 +48,7 @@ La elección de una carrera era clave porque resultaba un punto importante en nu
 
 Continuando con la historia del banco, luego de todo ese tiempo, me aventuré a buscar algo mejor. Mi interés profesional estaba en la tecnología, mi gran aliada y una de las razones principales por las que decidí quedarme a vivir en el país. Si quería dedicarme a aquello que me gustaba, debía esforzarme mucho en convencer a las empresas que estaba listo para tener un puesto en esa área. En parte fue por ello que una carrera en tecnología me convenció. A comienzos de abril de este año tuve una serie de entrevistas para trabajar para otra empresa de finanzas como analista de datos y, luego de un proceso de selección bastante interesante, me escogieron. Ahora trabajo en eso y, luego de estas semanas en el trabajo, puedo decir que me encanta.
 
-![Guy with glasses thinking about technology](https://i.ibb.co/cTkQYWs/example2.jpg)
+![Hombre con lentes pensando sobre tecnología](https://i.imgur.com/ivApHhJ.jpeg)
 
 ## Los sacrificios se cobran
 
